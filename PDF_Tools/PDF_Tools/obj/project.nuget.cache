@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCWCNp54uBmELSN18cdr32gxVq41iWC8YH1egIwabod2cuDErympKD6MsPz+gyuLi7dNOoS4EnkvBCvURT9CLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\modus\\source\\repos\\PDF_Tools\\PDF_Tools\\PDF_Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\modus\\.nuget\\packages\\pdfsharpcore\\1.3.63\\pdfsharpcore.1.3.63.nupkg.sha512",
+    "C:\\Users\\modus\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\modus\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\modus\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
